@@ -1,6 +1,6 @@
 # Fender Telecaster
 
-The Fender Telecaster is my favourite Guitar and is a great first guitar for amateu luthiers to build.
+The Fender Telecaster is my favourite Guitar and is a great first guitar for amateur luthiers to build.
 
 Creating these templates took a lot of research and time to draft as I have tried to create them as historically accurate as I possibly could. 
 
